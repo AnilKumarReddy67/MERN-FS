@@ -1,0 +1,48 @@
+
+.rcor_rect1 {
+    border-radius: 5px;
+  border: 2px solid green;
+  padding: 20px;
+  width: 80px;
+  height: 30px;
+}
+
+.rcor_rect2 {
+    border-radius: 15px;
+    border:2px solid green;
+    padding: 20px;
+    width: 80px;
+    height: 30px;
+}
+.rcor_rect3 {
+    border-radius: 15px;
+    border:2px solid green;
+    padding: 20px;
+    width: 80px;
+    height: 30px;
+}
+.rectangle {
+   height: 80px;
+   width: 120px; 
+   border:2px solid green;
+}
+.oval {
+	
+        height: 70px;
+        width: 140px;
+        border:2px solid green;
+        -moz-border-radius: 50%;
+        -webkit-border-radius: 50%;
+        border-radius: 50%;
+    
+}
+.rcorners_rect {
+	height: 80px;
+	width: 120px;
+	border: 2px solid green;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+
+
+</style>
